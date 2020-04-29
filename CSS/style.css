@@ -124,6 +124,7 @@ margin-right: 30px;
   align-items: flex-start;
   /* Расстояние между */
   justify-content: space-between;
+  min-height: auto;
 }
 .card {
   background: #FFFFFF;
